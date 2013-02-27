@@ -1,0 +1,27 @@
+{
+  "name": "dir",
+  "version": "0.1.0",
+  "description": "auto-compile.ts ",
+  "main": "auto-compile-ts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VladimirMakaev/auto-compile-ts.git"
+  },
+  "dependencies": {
+       "cli-color": "0.2.2",
+       "node-watch": "0.2.8"
+  },
+
+  "keywords": [
+    "typescript",
+    "ts",
+    "autocompile"
+  ],
+  "author": "Vladimir Makayev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d4d7522c7d7f27ac12805642fb6fa5dd495f354b"
+}

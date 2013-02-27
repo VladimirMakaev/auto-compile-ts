@@ -9,4 +9,4 @@ Usage:
 
   1. Clone repository into working directory.
   2. Run application:
-      node auto-compile-ts.js
+      node auto-compile-ts.js {directory-path-to-watch}
